@@ -45,6 +45,7 @@ public class Program1 {
 		System.out.println("ARRAY-ul afisat in stil Java: " + Arrays.toString(scoruri));
 		
 		
+		System.out.println("=====================================");
 		System.out.println("**END PROGRAM**");
 	}
 	
